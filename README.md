@@ -2,4 +2,4 @@ https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-n
 
 nRF24L01
 
-You'll need to download teh RF24 library
+You'll need to download the RF24 library
