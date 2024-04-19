@@ -9,4 +9,8 @@ GND - GND
 VCC - 3.3V
 CE - 7
 CSN - 8
+SCK - 13
+MOSI - 11
+MISO - 12
+IRQ - Not Used
 ![image](https://github.com/jeffreyroach94/bright-verde/assets/167149794/088c349c-ed1c-41af-8b79-be3ce5d2d94d)
